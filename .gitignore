@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+images/
+videos/
+__pycache__/
+*.pkl
+vid-img/
+out.ogv
